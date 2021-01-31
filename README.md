@@ -39,5 +39,7 @@ In the notebook, we analyze the distribution of price and find the cheapest and 
 We built a linear regression model to predict price in this study with an R2 metric of 0.64
 Also, we visualized the top keywords from comments about these properties building a wordcloud
 
+The blog to the analysis can be found here: https://mishrasuraj598.medium.com/predicting-the-price-of-seattle-properties-with-linear-regression-80e268e6f6dc
+
 ## Acknowledgements
 The data is procured from Kaggle and can be downloaded from the below link https://www.kaggle.com/airbnb/seattle/data
